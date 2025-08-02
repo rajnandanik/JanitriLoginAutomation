@@ -175,6 +175,10 @@ if (driver.getPageSource().contains("To proceed to the login page please allow")
 - **CI/CD integration**: Jenkins, GitHub Actions
 - **Mobile testing**: Appium integration
 
+## 📊 Test Case File
+
+[Download Janitri_Login_TestCases.xlsx](./Janitri_Login_TestCases.xlsx)
+
 ##  Contributing
 
 1. Fork the repository
@@ -182,6 +186,7 @@ if (driver.getPageSource().contains("To proceed to the login page please allow")
 3. Make your changes
 4. Add tests for new functionality
 5. Submit a pull request
+
 
 ## 📝 License
 
